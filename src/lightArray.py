@@ -1,13 +1,16 @@
 '''
-...
+Matrix-like wrapper for neopixel compatable lights on an ESP12F.
+
+`Copyright (c) 2025 WonkManGood <https://github.com/WonkManGood>`
+`All rights reserved.`
 '''
 
 class lightArray():
     '''
-    Matrix-like wrapper for neopixel compatable lights on a ESP12F.
+    Matrix-like wrapper for neopixel compatable lights on an ESP12F.
     
-    oLIGHT: Neopixel wrapper for a DIY matrix on ESP boards.\n
-    Copyright (C) 2025 WonkManBad (Ezra J.)
+    `Copyright (c) 2025 WonkManGood <https://github.com/WonkManGood>`
+    `All rights reserved.`
     '''
     
     ...
