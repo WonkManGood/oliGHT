@@ -1,7 +1,8 @@
 ### oliGHT
-Instead of searching for random software others have create, here's a wrapper ontop of MicroPython's neopixel libraries for more. . . *personal* functionality.
+Instead of searching for random software others have created, here's a wrapper on top of MicroPython's neopixel libraries for more personal functionality.
 
-It's just a light board for my <1yo son. Feel free to critique and commit. Still rather new at all this.
+It's just a light board for my <1yo son. Feel free to critique and commit.
+
 
 @Wonkers
 
